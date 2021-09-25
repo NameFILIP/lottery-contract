@@ -32,3 +32,5 @@ const deploy = async () => {
 };
 
 deploy();
+
+// Deployed to 0x6A01d3578a1A804f9510daE5Be1a8A8e3CEF09f3
